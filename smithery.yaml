@@ -1,0 +1,6 @@
+name: genpark-bm25-lexical-retrieval-memory-buffer-skill
+version: 1.0.0
+description: Pure Python BM25 Okapi lexical retrieval engine with document frequency inverted index for agent memory
+command: python
+args:
+  - mcp_server.py
